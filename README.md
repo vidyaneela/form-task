@@ -85,7 +85,8 @@ To create a **personal details registration form** using **HTML** with basic for
 ---
 
 ## **Output Screenshot**  
-📸 *(Attach the screenshot of the form here in GitHub's README file.)*  
+![image](https://github.com/user-attachments/assets/e90bec21-f806-4874-bcc8-5bec977e267c)
+
 
 ---
 
